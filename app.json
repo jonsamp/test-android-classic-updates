@@ -3,8 +3,7 @@
     "name": "test-android-classic-updates",
     "slug": "test-android-classic-updates",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "sdkVersion": "44.0.0"
   }
 }
