@@ -18,7 +18,7 @@
 - Added `<Text>Update 1</Text>` to **App.js**.
 - Then ran `expo publish`.
 - Then force closed the app in the emulator and reloaded it. Saw no change, since the update started downloading in the background.
-- Then re-opened the app and say the "Update 1" text.
+- Then re-opened the app and saw the "Update 1" text.
 
 After this, I added the ability to check for an update while the app is running.
 
